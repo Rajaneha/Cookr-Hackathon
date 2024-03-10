@@ -10,8 +10,8 @@ Create a model or research the necessary steps to categorize items automatically
 - Chicken Vindaloo: North Indian, Punjabi, Non-Veg, Chicken, Protein Rich, etc.
 - Ragi Dosa: South Indian, Diabetic Friendly, Millet Based, Pregnancy Friendly, etc.
   
-# Problem Statement2
-# Last Mile Delivery Batching 
+## Problem Statement2
+## Last Mile Delivery Batching 
 ## Description
 Optimize last-mile delivery for speed and cost efficiencies using smarter algorithms in the ecommerce marketplace. Group/batch the delivery of multiple items to the same rider without losing time.
 
