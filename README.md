@@ -1,6 +1,6 @@
 # Cookr-Hackathon
-# Problem Statement1
-# Item Categorization 
+## Problem Statement1
+## Item Categorization 
 
 ## Description
 Create a model or research the necessary steps to categorize items automatically. When a cook adds an item to their kitchen, it should be categorized into multiple predefined categories. Sample data will be provided for training.
